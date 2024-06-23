@@ -1,4 +1,4 @@
 build/
 dist/
-/json/
-/log/
+json/*
+log/*
